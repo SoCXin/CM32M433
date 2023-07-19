@@ -1,0 +1,36 @@
+{
+    "type":"MCU",
+    "name":"CM32M433",
+    "title": "CM32M433",
+    "description":"RISC-V N308 MCU",
+    "version":"1.0.0",
+    "Core": {
+        "num": 1,
+        "type":"RISC-V",
+        "Freq": 144,
+        "DMIPS": 211,
+        "CoreMark": 60
+    },
+    "manufacturer": {
+        "vendor":"cmiot",
+        "homepage": "https://www.xinshengcmiot.cn/"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/SoCXin/CM32M433.git"
+    },
+    "series":["CM32M433"],
+    "package":["QFN80","QFN48","LQFP128"],
+    "peripheral": ["TIM","ADC","USB","UART","SPI","LDO","PWM"],
+    "EMC": {
+        "EFT": 2000,
+        "CDM": 1000,
+        "HBM": 4000
+    },
+    "keywords": [
+        "RISC-V",
+        "N308",
+        "DAC","SDIO","CAN","I2C","RTC","SPI",
+        "3.6V","1.7V"
+    ]
+}
