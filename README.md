@@ -1,7 +1,7 @@
 ﻿# [CM32M433](https://github.com/SoCXin/CM32M433)
 
-* [cmiot](https://www.xinshengcmiot.cn)：[RISC-V N308(RV32IMACFP)](https://github.com/SoCXin/RISC-V)
-* [L2R2](https://github.com/SoCXin/Level)：144 MHz (211 DMIPS)
+* [cmiot](https://www.xinshengcmiot.cn)：[RISC-V N308 (RV32IMACFP)](https://github.com/SoCXin/RISC-V)
+* [L2R3](https://github.com/SoCXin/Level)：144 MHz (211 DMIPS), [￥16.5 (LQFP-100)](https://item.szlcsc.com/8434041.html)
 
 ## [简介](https://github.com/SoCXin/CM32M433/wiki)
 
